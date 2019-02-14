@@ -1,0 +1,4 @@
+/appinterfacetest/*.o
+/appinterfacetest/*.so
+/appinterfacetest/libappinterface.so.bak
+/appinterfacetest/appinterfacetest
